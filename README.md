@@ -1,5 +1,5 @@
 # Name is CBin or C/C++ Binary or C/C++ Binary in framework
-Java like C++ development framework
+C++ development framework like same of Java
 
 1. Remove the header file and other usage statements, avoid writing the header file, and use # include xxx.cpp
 2. Realize the association between src c++files and packages. The archive name is consistent with the jar name csam. It contains the build signature file, version control, etc
