@@ -12,6 +12,6 @@ C++ development framework like same of Java
 
 6. The warehouse management tool provides site support for asam library packages, supports online downloading and version updating.
 
-7. For the abi compatibility, the abi check is performed during installation and a warning is given. There is a pit here. If the interface is missing, an error will occur during the program's running. The agent's frog call may be required here, that is, the child process crashed can be printed or prompted by the parent process.
+7. For the abi compatibility, the abi check is performed during installation and a warning is given. There is a pit here. If the interface is missing, an error will occur during the program's running. The agent's call may be required here, that is, the child process crashed can be printed or prompted by the parent process
 
 To sum up: It can support the existing IDE syntax functions. Linux does not affect the construction behavior mode of cxx, such as gcc parameters. Bind cxx and binary packages through cbin packages, and care about code calls and quick construction of a function during debugging.
