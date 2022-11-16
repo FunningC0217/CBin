@@ -1,4 +1,4 @@
-# CBin or name C/C++ Binary or C/C++ Binary in framework
+# Name is CBin or C/C++ Binary or C/C++ Binary in framework
 Java like C++ development framework
 
 1. Remove the header file and other usage statements, avoid writing the header file, and use # include xxx.cpp
