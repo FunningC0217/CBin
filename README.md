@@ -8,7 +8,7 @@ C++ development framework like same of Java
 
 4. During compilation, distinguish between debug and release. The source of debug is source code compilation, and the source of release is binary code that has been built. There are pitfalls here, and component tools may be required for processing.
 
-5. Unified library package management, such as Python user/system. Take user as an example, install the binary code file in cbin to~/.cbin/lib, and install the cxx file into ~/.cbin/lib In ~/.cbin/src, local file mapping signature is associated with binary code and cxx file. It is recommended to adopt the established default rules to reduce the combination of paths.
+5. Unified library package management, such as Python user/system. Take user as an example, install the binary code file in cbin to~/.cbin/lib, and install the cxx file in ~/.cbin/src, local file mapping signature is associated with binary code and cxx file. It is recommended to adopt the established default rules to reduce the combination of paths.
 
 6. The warehouse management tool provides site support for asam library packages, supports online downloading and version updating.
 
