@@ -4,7 +4,7 @@ C++ development framework like same of Java
 1. Remove the header file and other usage statements, avoid writing the header file, and use # include xxx.cpp
 2. Realize the association between src c++files and packages. The archive name is consistent with the jar name csam. It contains the build signature file, version control, etc
 
-3. Kill the static libraries and avoid repeated logical import of runtime
+3. Prohibition of use static libraries and avoid repeated logical import of runtime
 
 4. During compilation, distinguish between debug and release. The source of debug is source code compilation, and the source of release is binary code that has been built. There are pitfalls here, and component tools may be required for processing.
 
